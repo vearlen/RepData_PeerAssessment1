@@ -141,6 +141,7 @@ colSums(is.na(fill.activity))
 ```
 **Impute.steps has zero NAs** those will be used further for plots.
 
+
 4. Make a histogram of the total number of steps taken each day and Calculate and report the mean and median total number of steps taken per day. Do these values differ from the estimates from the first part of the assignment? What is the impact of imputing missing data on the estimates of the total daily number of steps?
 
 ```r
