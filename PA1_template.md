@@ -172,7 +172,7 @@ ggplot(sum.impute.activity)+
   theme_minimal()
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
+![](PA1_template_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
 
 
 ```r
