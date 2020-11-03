@@ -9,6 +9,7 @@ output:
 #set global settings for code chunks
 knitr::opts_chunk$set(warning=FALSE, message=FALSE, echo=TRUE)
 ```
+**pics are in PA1_template_files** folder
 
 ## Loading and preprocessing the data
 Load the data 
@@ -172,7 +173,7 @@ ggplot(sum.impute.activity)+
   theme_minimal()
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
+![](PA1_template_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
 
 
 ```r

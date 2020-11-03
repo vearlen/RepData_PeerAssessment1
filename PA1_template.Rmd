@@ -8,6 +8,7 @@ output:
 #set global settings for code chunks
 knitr::opts_chunk$set(warning=FALSE, message=FALSE, echo=TRUE)
 ```
+**pics are in PA1_template_files** folder
 
 ## Loading and preprocessing the data
 Load the data 
